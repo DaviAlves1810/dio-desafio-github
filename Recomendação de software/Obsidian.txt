@@ -1,0 +1,6 @@
+
+Link para download do Obsidian: https://obsidian.md/download
+
+
+
+O obsidian é um software que é útil para criar redes de anotações de forma útil utilizando sistemas de markdown e links.
