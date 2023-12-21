@@ -1,0 +1,1 @@
+JavaScript é uma linguagem de programação que permite a você adicionar interatividade e dinamismo às páginas da web. Ele é amplamente suportado pelos navegadores e é uma parte fundamental do desenvolvimento web.
